@@ -1,0 +1,15 @@
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\Crossword.csproj.AssemblyReference.cache
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\MainWindow.g.cs
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\App.g.cs
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\Crossword_MarkupCompile.cache
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\Crossword_MarkupCompile.lref
+D:\File\GitHub\Crossword\Crossword\Crossword\bin\Debug\Crossword.exe.config
+D:\File\GitHub\Crossword\Crossword\Crossword\bin\Debug\Crossword.exe
+D:\File\GitHub\Crossword\Crossword\Crossword\bin\Debug\Crossword.pdb
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\MainWindow.baml
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\Crossword.g.resources
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\Crossword.exe
+D:\File\GitHub\Crossword\Crossword\Crossword\obj\Debug\Crossword.pdb
